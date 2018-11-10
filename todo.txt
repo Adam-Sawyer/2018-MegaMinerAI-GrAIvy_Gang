@@ -1,0 +1,8 @@
+Classes
+
+Bot creator/manager -> Assigns bots a group. Bots in group perform same strategy
+
+Bot controller -> Executes assigned strategy. Use data to control rather than make whole classes?
+
+Bot wrapper -> Intermediary between bot controller and game code
+
